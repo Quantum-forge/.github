@@ -5,7 +5,7 @@ A team building performant, open-source technology.
 Creating software and tools acessible to everyone.
 
 # A peek into the future
-- An IDE primarily for programming in rust
+- Ink, an IDE primarily for programming in rust
 
 - An interpreted programming/scripting language
 
