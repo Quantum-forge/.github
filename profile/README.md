@@ -1,4 +1,4 @@
-# Gear-forge
+# Quantum-forge
 A team building performant, open-source technology.
 
 # Our goals
